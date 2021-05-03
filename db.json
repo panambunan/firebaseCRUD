@@ -1,0 +1,98 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    },
+    "users": [
+      {
+        "id": 7,
+        "email": "michael.lawson@reqres.in",
+        "first_name": "Michael",
+        "last_name": "Lawson"
+        
+      },
+      {
+        "id": 8,
+        "email": "lindsay.ferguson@reqres.in",
+        "first_name": "Lindsay",
+        "last_name": "Ferguson"
+        
+      },
+      {
+        "id": 9,
+        "email": "tobias.funke@reqres.in",
+        "first_name": "Tobias",
+        "last_name": "Funke"
+        
+      },
+      {
+        "id": 10,
+        "email": "byron.fields@reqres.in",
+        "first_name": "Byron",
+        "last_name": "Fields"
+        
+      },
+      {
+        "id": 11,
+        "email": "george.edwards@reqres.in",
+        "first_name": "George",
+        "last_name": "Edwards"
+        
+      },
+      {
+        "id": 12,
+        "email": "rachel.howell@reqres.in",
+        "first_name": "Rachel",
+        "last_name": "Howell"
+        
+      },
+      {
+       
+        "first_name": "Giver",
+        "last_name": "Panambunan",
+        "email": "Giverpanambunan@gmail.com",
+        "id": 13
+      },
+      {
+        
+        "first_name": "Affiano",
+        "last_name": "Dengah",
+        "email": "Dengah@gmail.com",
+        "id": 14
+      },
+      {
+        
+        "first_name": "Andre",
+        "last_name": "Waturandang",
+        "email": "Andre01@gmail.com",
+        "id": 15
+      },
+      {
+        
+        "first_name": "Ella",
+        "last_name": "Paruntu",
+        "email": "marshella@gmail.com",
+        "id": 16
+      },
+      {
+        
+        "first_name": "Andre",
+        "last_name": "Paris",
+        "email": "Andreparis@gmail.com",
+        "id": 17
+      }
+    ]
+  }
